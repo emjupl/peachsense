@@ -1,0 +1,21 @@
+class Colors:
+    Red = '\033[91m'
+    Green = '\u001b[32m'
+    Yellow = '\u001b[33m'
+    White = '\033[0m'
+    Cyan = '\u001b[36m'
+    Gray = '\u001b[37m'
+    Blue = '\u001b[34m'
+    Black = '\u001b[30m'
+    Gold = '\u001b[93m'
+    Pink = '\u001b[35m'
+    LightBlue = '\u001b[94m'
+    LightRed = '\u001b[31m'
+    LightPink = '\u001b[95m'
+    LightGreen = '\u001b[92m'
+    print(White)
+
+    Przekreslenie = '\u001b[09m'
+    GrayBackground = '\u001b[07m'
+    Underline = '\u001b[04m'
+    Bold = '\u001b[01m'
